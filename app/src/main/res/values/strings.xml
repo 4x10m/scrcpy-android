@@ -16,6 +16,7 @@
     <string-array name="options_resolution_keys">
         <item>1920x1080</item>
         <item>1280x720</item>
+        <item>1024x600</item>
         <item>800x448</item>
         <item>640x360</item>
     </string-array>
@@ -23,6 +24,7 @@
     <string-array name="options_resolution_values">
         <item>1920,1080</item>
         <item>1280,720</item>
+        <item>1024,600</item>
         <item>800,448</item>
         <item>640,360</item>
     </string-array>
